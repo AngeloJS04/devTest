@@ -1,0 +1,7 @@
+@media (max-width: 680px) {
+    .title {
+        font-size: 20px !important;
+        padding: 0px !important;
+        margin-top: -1rem !important;
+    }
+}
